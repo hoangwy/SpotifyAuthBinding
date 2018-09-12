@@ -1,5 +1,7 @@
 # SpotifyAuthBinding
 
+Replace "ClientID" and "RedirectUrl"
+
 ```
 private void HandleLoginSpotify()
 {
@@ -22,7 +24,7 @@ protected override void OnActivityResult(int requestCode, Result resultCode, Int
                 var token = AuthenticationResponse.Type.Token;
                 if (response.GetType() == AuthenticationResponse.Type.Token)
                 {
-                    Config playerConfig = new Config(this, response.AccessToken, GlobalVar.Spotify_Client_Id);
+                    Config playerConfig = new Config(this, response.AccessToken, "ClientID");
                     //Create player
                 }
                 else
