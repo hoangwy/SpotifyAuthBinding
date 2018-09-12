@@ -1,0 +1,6 @@
+C:\Data\Private\Apollo Xamarin\SpotifyAuthLibraryBinding\bin\Debug\SpotifyAuthLibraryBinding.dll
+C:\Data\Private\Apollo Xamarin\SpotifyAuthLibraryBinding\bin\Debug\SpotifyAuthLibraryBinding.pdb
+C:\Data\Private\Apollo Xamarin\SpotifyAuthLibraryBinding\obj\Debug\SpotifyAuthLibraryBinding.csprojAssemblyReference.cache
+C:\Data\Private\Apollo Xamarin\SpotifyAuthLibraryBinding\obj\Debug\SpotifyAuthLibraryBinding.csproj.CoreCompileInputs.cache
+C:\Data\Private\Apollo Xamarin\SpotifyAuthLibraryBinding\obj\Debug\SpotifyAuthLibraryBinding.dll
+C:\Data\Private\Apollo Xamarin\SpotifyAuthLibraryBinding\obj\Debug\SpotifyAuthLibraryBinding.pdb
